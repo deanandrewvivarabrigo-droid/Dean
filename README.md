@@ -1,1 +1,32 @@
-ÿþ# Dean
+ï¿½ï¿½# Dean
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Course Portal</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <header>
+            <h1>Welcome!</h1>
+            <nav>
+              <ul>
+                  <li><a href="about">About</a></li>
+                  <li><a href="contact">Contact</a></li>
+              </ul>
+            </nav>
+        </header>
+        
+        <main>
+           <section id="home">
+               <h3>This portal provides course information.</h3>
+           </section>
+           
+        </main>
+        
+        <footer>
+            <p>&copy; 2026 Course Portal. All rights reserved.</p>
+        </footer>
+    </body>
+</html>
